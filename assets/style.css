@@ -71,42 +71,50 @@ li {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+
+/* media query for mobilephones */
+
 @media screen and (max-width: 600px){
     .fetacheese {
         height: 140px;
-        weight: 140px;
+        width: 180px;
         border-radius: 50%;
     }.happyfamily {
         height: 200px;
-        weight: 200px;
+        width: 250;
         border-radius: 10%;
     }
 
 }
 
+/* media query for ipad and tablets */
 @media screen and (min-width: 601px) and (max-width: 900px){
     .fetacheese {
         height: 240px;
-        weight: 240px;
+        width: 480px;
         border-radius: 50%;
     }
     .happyfamily {
         height: 300px;
-        weight: 300px;
+        width: 400px;
         border-radius: 10%;
+        display: flex;
         justify-content: center;
     }
     
 }
-
+/* media query for big screens*/
 @media screen and (min-width: 901px) {
     .fetacheese {
-        height: 140px;
-        weight: 140px;
+        height: 340px;
+        width: 580px;
         border-radius: 50%;
-    }.happyfamily {
-        height: 200px;
-        weight: 200px;
+    }
+    .happyfamily {
+        height: 600px;
+        width: 700px;
         border-radius: 10%;
     }
-} 
+}  
+
+     
