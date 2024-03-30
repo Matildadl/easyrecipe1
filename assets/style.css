@@ -16,7 +16,7 @@ body {
 
 .container a:hover {
     background-color: #451c1c; 
-    color: #2dae26; 
+    color: #3e793b; 
 }
 #recept1 {
     text-align: left;
@@ -71,6 +71,12 @@ li {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.container a {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    width: 100%; 
+}
 
 /* media query for mobilephones */
 
