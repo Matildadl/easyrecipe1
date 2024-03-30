@@ -1,39 +1,27 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+Welcome to Easy Recipes!
 
-Welcome,
+Are you looking for a quick, delicious meal that's sure to please the whole family? Look no further! Our site is dedicated to providing you with easy-to-follow recipes that are both tasty and satisfying. Today, we're thrilled to share with you one of our all-time favorites: homemade meatballs.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Our easy meatball recipe is perfect for busy weeknights when you want to whip up something hearty and comforting without spending hours in the kitchen. With simple ingredients and straightforward instructions, you'll have juicy, flavorful meatballs ready to serve in no time.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Whether you're a seasoned home cook or just starting out on your culinary journey, our recipe is sure to become a staple in your kitchen. So grab your apron and let's get cooking!
 
-## Codeanywhere Reminders
+Features:
+HTML and CSS Setup: The project includes a well-structured HTML layout with accompanying CSS styling, ensuring a visually appealing and intuitive user experience.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Social Network Integration: Stay connected! We've added links to popular social networks, allowing users to share their favorite recipes with friends and family.
 
-`python3 -m http.server`
+Sign Up Page: Join our community! Users can sign up for a personalized account, unlocking additional features such as saving favorite recipes and receiving updates on new content.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+here is my wireframe for the project:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
 
-`http_server`
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+<img width="576" alt="pp1 sida1" src="https://github.com/Matildadl/recipe1/assets/163171713/0c691e52-54ef-4645-a909-c8715654828b">
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+<img width="576" alt="pp1sida2" src="https://github.com/Matildadl/recipe1/assets/163171713/c10bf0aa-9366-4ea8-b7a7-da7c995dfcb2">
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+<img width="576" alt="pp1 sida3" src="https://github.com/Matildadl/recipe1/assets/163171713/17cc2636-c003-45e4-b46a-973de20c5fc9">
 
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+links that I have used:
+https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js (fontawesome)
