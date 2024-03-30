@@ -6,7 +6,14 @@ body {
  #logo {
     text-align: center;
  }
-.container1 {
+ 
+ .foodplate {
+    padding-left: 75%;
+    height: 200px;
+    width: 200px; 
+    
+ }
+ .container1 {
     margin-right: 10px;
     text-decoration: none; 
     padding: 5px 10px;
