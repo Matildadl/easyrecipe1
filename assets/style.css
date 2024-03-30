@@ -72,13 +72,41 @@ li {
 }
 
 @media screen and (max-width: 600px){
-    
+    .fetacheese {
+        height: 140px;
+        weight: 140px;
+        border-radius: 50%;
+    }.happyfamily {
+        height: 200px;
+        weight: 200px;
+        border-radius: 10%;
+    }
+
 }
 
 @media screen and (min-width: 601px) and (max-width: 900px){
+    .fetacheese {
+        height: 240px;
+        weight: 240px;
+        border-radius: 50%;
+    }
+    .happyfamily {
+        height: 300px;
+        weight: 300px;
+        border-radius: 10%;
+        justify-content: center;
+    }
     
 }
 
 @media screen and (min-width: 901px) {
-    
+    .fetacheese {
+        height: 140px;
+        weight: 140px;
+        border-radius: 50%;
+    }.happyfamily {
+        height: 200px;
+        weight: 200px;
+        border-radius: 10%;
+    }
 } 
