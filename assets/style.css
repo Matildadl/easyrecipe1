@@ -3,20 +3,53 @@ body {
     
     
 }
-/* nav links*/
+ #logo {
+    text-align: center;
+ }
+.container1 {
+    margin-right: 10px;
+    text-decoration: none; 
+    padding: 5px 10px;
+    background-color: none; 
+    color: #1a0707; 
+    border-radius: 5px; 
+    display: flex;
+}
+.container1 a{
+    display: inline-block; 
+    margin-right: 10px;
+    text-decoration: none; 
+    padding: 5px 10px;
+    background-color: none; 
+    color: #0a0202; 
+    border-radius: 10px; 
+}
+.container1 a:hover {
+    background-color: #f0ecec; 
+    color: #0b0c0b; 
+}
+
+.container1 {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%; 
+    width: 100%;
+}
+
+/* social media links*/
 .container a {
     display: inline-block; 
     margin-right: 10px;
     text-decoration: none; 
     padding: 5px 10px;
-    background-color: #c13333; 
     color: #1a0707; 
     border-radius: 5px; 
 }
 
 .container a:hover {
-    background-color: #451c1c; 
-    color: #3e793b; 
+    background-color: #eee9e9; 
+     
 }
 #recept1 {
     text-align: left;
@@ -68,7 +101,7 @@ li {
     background-color: #9c3030;
     padding: 10px;
     border-radius: 12px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
 }
 
 .container a {
