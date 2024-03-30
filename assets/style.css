@@ -1,0 +1,72 @@
+body {
+    background-color: bisque;
+    
+    
+}
+/* nav links*/
+.container a {
+    display: inline-block; 
+    margin-right: 10px;
+    text-decoration: none; 
+    padding: 5px 10px;
+    background-color: #c13333; 
+    color: #1a0707; 
+    border-radius: 5px; 
+}
+
+.container a:hover {
+    background-color: #451c1c; 
+    color: #2dae26; 
+}
+#recept1 {
+    text-align: left;
+}
+
+p {
+    color: darkslategrey;
+    
+}
+
+li {
+    color: darkslategrey;
+    font-style: italic;
+}
+
+
+/*place for list and to do*/
+
+.container {
+    display: flex;
+}
+
+.content {
+    flex: 1; 
+}
+
+.sidebar {
+    flex: 1; 
+    text-align: right; 
+}
+
+.container {
+    margin-right: 10px;
+    text-decoration: none; 
+    padding: 5px 10px;
+    background-color: none; 
+    color: #1a0707; 
+    border-radius: 5px; 
+   }
+/* pictures */
+   .feta-cheese {
+    width: 50px;
+    height: 50px;
+}
+/* style for sign up*/
+#signup{
+    max-width: 200px;
+    margin: 40px;
+    background-color: #9c3030;
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
