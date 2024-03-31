@@ -32,4 +32,5 @@ https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js (fontawesome)
 |--|          Click on About | Open About|
 |--|          Click on sign up | Open sign up|
 | Sign up-page|Fill out the form and submit| form dump is showing up, formel is ok|
+| Sign up-page| Try to submit without writing email-adress|warning about empty field pop up's|
 |Social media | Trying to click on Facebook-icon|Facebook's startpage is showing|
