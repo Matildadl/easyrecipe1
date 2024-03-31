@@ -6,13 +6,16 @@ body {
  #logo {
     text-align: center;
  }
- 
+
+  
  .foodplate {
     padding-left: 75%;
     height: 200px;
     width: 200px; 
-    
+
  }
+    
+ 
  .container1 {
     margin-right: 10px;
     text-decoration: none; 
@@ -130,7 +133,11 @@ li {
         width: 250;
         border-radius: 10%;
     }
-
+    .foodplate {
+        height: 200px;
+        width: 250;
+       
+    }
 }
 
 /* media query for ipad and tablets */
@@ -147,7 +154,11 @@ li {
         display: flex;
         justify-content: center;
     }
-    
+    .foodplate {
+        height: 200px;
+        width: 250;
+         
+    }
 }
 /* media query for big screens*/
 @media screen and (min-width: 901px) {
@@ -160,6 +171,11 @@ li {
         height: 600px;
         width: 700px;
         border-radius: 10%;
+    }
+    .foodplate {
+        height: 200px;
+        width: 250;
+         
     }
 }  
 
