@@ -28,3 +28,6 @@ https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js (fontawesome)
 
 | Feature | Action | Effect 
 |--|--|--| 
+|navbar links|Click on Recipes| Open home|
+|--|          Click on About | Open About|
+|--|          Click on sign up | Open sign up|
