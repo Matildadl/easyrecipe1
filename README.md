@@ -31,3 +31,5 @@ https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js (fontawesome)
 |navbar links|Click on Recipes| Open home|
 |--|          Click on About | Open About|
 |--|          Click on sign up | Open sign up|
+| Sign up-page|Fill out the form and submit| form dump is showing up, formel is ok|
+|Social media | Trying to click on Facebook-icon|Facebook's startpage is showing|
