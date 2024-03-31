@@ -13,6 +13,22 @@ Social Network Integration: Stay connected! We've added links to popular social 
 
 Sign Up Page: Join our community! Users can sign up for a personalized account, unlocking additional features such as saving favorite recipes and receiving updates on new content.
 
+Navbar:
+Recipe, About and Sign up.
+
+Recipe- First page with one simple recipe for a healthy meal.
+About- About the owner of the website and her vision about the website.
+sign up- sign up for more recipies.
+
+Footer - here is the Social media-links: Facebook, Instagram, Twitter and Youtube.
+
+Future Features:
+1. add more recipies on website, even categoris for different proteins and ingredients.
+2. people who signed up will get weekly updates with new recipies and can also send in pictures and their own recipes that can be added to the website
+3. open up a gallery with pictures of the food.
+4. add videos and video-tutorials how to cook.
+
+
 here is my wireframe for the project:
 
 
@@ -24,7 +40,7 @@ here is my wireframe for the project:
 <img width="576" alt="pp1 sida3" src="https://github.com/Matildadl/recipe1/assets/163171713/17cc2636-c003-45e4-b46a-973de20c5fc9">
 
 links that I have used:
-https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js (fontawesome)
+[https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js ](fontawesome)
 
 | Feature | Action | Effect 
 |--|--|--| 
