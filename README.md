@@ -25,3 +25,6 @@ here is my wireframe for the project:
 
 links that I have used:
 https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js (fontawesome)
+
+| Feature | Action | Effect 
+|--|--|--| 

@@ -9,13 +9,25 @@ body {
 
   
  .foodplate {
-    padding-left: 75%;
+    padding-left: 50%;
     height: 200px;
     width: 200px; 
+    display: flex; 
+    align-items: center; 
 
  }
+ .foodplate img {
+    width: 200px; 
+    height: auto; 
+    margin-left: 20px; 
+ }
     
- 
+  .foodplate p{
+    font-size: 20px;
+    font-style: italic;
+    color:midnightblue;
+  }
+
  .container1 {
     margin-right: 10px;
     text-decoration: none; 
@@ -136,6 +148,7 @@ li {
     .foodplate {
         height: 200px;
         width: 250;
+        object-position: right;
        
     }
 }
@@ -159,6 +172,8 @@ li {
         width: 250;
          
     }
+    
+
 }
 /* media query for big screens*/
 @media screen and (min-width: 901px) {
