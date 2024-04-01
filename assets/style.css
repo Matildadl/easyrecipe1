@@ -5,32 +5,27 @@ body {
 }
  .logo {
     text-align: center;
-    font-size: xx-large;
  }
 
   
  .foodplate {
-   
+    padding-left: 50%;
     height: 200px;
     width: 200px; 
-    display: flex;
-    justify-content: flex-start;
-    margin-right: 700px;
- }
+    display: flex; 
+    align-items: center; 
 
- 
+ }
  .foodplate img {
     width: 200px; 
     height: auto; 
-   
+    margin-left: 20px; 
  }
     
-  .foodplate p {
+  .foodplate p{
     font-size: 20px;
     font-style: italic;
     color:midnightblue;
- 
-   
   }
 
  .container1 {

@@ -39,7 +39,13 @@ Future Features:
 4. add videos and video-tutorials how to cook.
 
 <hr>
+Am I responsive?
 
+<img src="assets/images/responsivepp1.png" alt="responsive">
+
+<hr>
+
+<hr>
 Here is my wireframe for the project:
 
 
