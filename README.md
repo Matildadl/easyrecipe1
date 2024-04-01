@@ -18,6 +18,9 @@ Sign Up Page: Join our community! Users can sign up for a personalized account, 
 Navbar:
 Recipe, About and Sign up.
 
+<img width="576" alt="navbar" src="assets/images/navbar.pp1.png">
+I have choosen to have a white/grey hover on my navbar-links, just to have a contrast.
+
 Recipe- First page with one simple recipe for a healthy meal.
 About- About the owner of the website and her vision about the website.
 sign up- sign up for more recipies.
@@ -25,6 +28,9 @@ sign up- sign up for more recipies.
 <hr>
 
 Footer - here is the Social media-links: Facebook, Instagram, Twitter and Youtube.
+ <img src="assets/images/social media.pp1.png" alt="social media">
+ Here i have choose to have the same theme as in the navbar. first I had written the text for each link (facebook, twitter, etc) but then I think the icons where better.
+<hr>
 
 Future Features:
 1. add more recipies on website, even categoris for different proteins and ingredients.
@@ -48,8 +54,8 @@ Here is my wireframe for the project:
 >
 Links that I have used:
 https://kit.fontawesome.com/f9f2ef5930.js(fontawesome)
+https://favicon.io/emoji-favicons/avocado
 
-<img width="576" alt="favicon" src="assets/favicon/favicon_io/favicon-32x32.png">
 
 <hr>
 
