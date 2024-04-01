@@ -47,7 +47,9 @@ Here is my wireframe for the project:
 <hr
 >
 Links that I have used:
-[https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js ](fontawesome)
+https://kit.fontawesome.com/f9f2ef5930.js(fontawesome)
+
+<img width="576" alt="favicon" src="assets/favicon/favicon_io/favicon-32x32.png">
 
 <hr>
 
