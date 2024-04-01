@@ -13,12 +13,16 @@ Social Network Integration: Stay connected! We've added links to popular social 
 
 Sign Up Page: Join our community! Users can sign up for a personalized account, unlocking additional features such as saving favorite recipes and receiving updates on new content.
 
+<hr>
+
 Navbar:
 Recipe, About and Sign up.
 
 Recipe- First page with one simple recipe for a healthy meal.
 About- About the owner of the website and her vision about the website.
 sign up- sign up for more recipies.
+
+<hr>
 
 Footer - here is the Social media-links: Facebook, Instagram, Twitter and Youtube.
 
@@ -28,8 +32,9 @@ Future Features:
 3. open up a gallery with pictures of the food.
 4. add videos and video-tutorials how to cook.
 
+<hr>
 
-here is my wireframe for the project:
+Here is my wireframe for the project:
 
 
 
@@ -39,8 +44,12 @@ here is my wireframe for the project:
 
 <img width="576" alt="pp1 sida3" src="https://github.com/Matildadl/recipe1/assets/163171713/17cc2636-c003-45e4-b46a-973de20c5fc9">
 
+<hr
+>
 links that I have used:
 [https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js ](fontawesome)
+
+<hr>
 
 | Feature | Action | Effect 
 |--|--|--| 
@@ -50,3 +59,5 @@ links that I have used:
 | Sign up-page|Fill out the form and submit| form dump is showing up, formel is ok|
 | Sign up-page| Try to submit without writing email-adress|warning about empty field pop up's|
 |Social media | Trying to click on Facebook-icon|Facebook's startpage is showing|
+
+<hr>
