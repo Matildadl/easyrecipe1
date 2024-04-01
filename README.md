@@ -86,3 +86,6 @@ trying in W3-validator:
 | about.html | Stray end tag < a > in line 29 | Deleted this | X |
 | about.html | Start tag body seen but an element of the same type was already open, line 31 | Deleted this and did only use the first one. | X |
 | about.html | Stray start tag footer. | added both body and html-element that have been missed. | X |
+| signup.html | Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed. in line 34 | changed Section-element to Div-element instead | X |
+| signup.html | Saw end of file without the previous tag ending with >. Ignoring tag. | Added > | X |
+| signup.html | The value of the for attribute of the label element must be the ID of a non-hidden form control. in line 44. | changed it from "email-address" to "email_address" | X |
