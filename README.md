@@ -1,4 +1,4 @@
-Welcome to Easy Recipes!
+#Welcome to Easy Recipes!
 
 Are you looking for a quick, delicious meal that's sure to please the whole family? Look no further! Our site is dedicated to providing you with easy-to-follow recipes that are both tasty and satisfying. Today, we're thrilled to share with you one of our all-time favorites: homemade meatballs.
 
@@ -6,47 +6,68 @@ Our easy meatball recipe is perfect for busy weeknights when you want to whip up
 
 Whether you're a seasoned home cook or just starting out on your culinary journey, our recipe is sure to become a staple in your kitchen. So grab your apron and let's get cooking!
 
-Features:
+###Features:
 HTML and CSS Setup: The project includes a well-structured HTML layout with accompanying CSS styling, ensuring a visually appealing and intuitive user experience.
 
-Social Network Integration: Stay connected! We've added links to popular social networks, allowing users to share their favorite recipes with friends and family.
+###Social Network Integration: Stay connected! We've added links to popular social networks, allowing users to share their favorite recipes with friends and family.
 
-Sign Up Page: Join our community! Users can sign up for a personalized account, unlocking additional features such as saving favorite recipes and receiving updates on new content.
+###Sign Up Page: Join our community! Users can sign up for a personalized account, unlocking additional features such as saving favorite recipes and receiving updates on new content.
+
+<hr>
+##Vision:
+
+###User stories:
+
+####First Time Visitor Goals
+
+As a First Time Visitor: *I want to easily understand the main purpose of the site and learn more about easy recipies.*
+As a First Time Visitor: *I want to be able to easily navigate throughout the site to find content.*
+As a First Time Visitor: *I want to see the food and what you can do with it. I also want to locate their social media links to see their followings on social media and if they are posting any news there.*
+
+####Returning Visitor Goals
+As a Returning Visitor: *I want to see more recipies and learn more.*
+As a Returning Visitor: *I want to sign up so I can get all the news.*
+As a Returning Visitor: *I want to find community links.*
+
+####Frequent User Goals
+As a Frequent User: *I want to check if there is any new recipies (categoris in the making for future)*
+As a Frequent User: *I want to see more picture, maybe readers own pictures (gallery may be added)*
+As a Frequent User: *I want to come back for new posted recipies every week*
 
 <hr>
 
-Navbar:
+##Navbar:
 Recipe, About and Sign up.
 
 <img width="576" alt="navbar" src="assets/images/navbar.pp1.png">
 I have choosen to have a white/grey hover on my navbar-links, just to have a contrast.
 
-Recipe- First page with one simple recipe for a healthy meal.
-About- About the owner of the website and her vision about the website.
-sign up- sign up for more recipies.
+**Recipe**- *First page with one simple recipe for a healthy meal.*
+**About**- *About the owner of the website and her vision about the website.*
+**sign up**- *sign up for more recipies.*
 
 <hr>
 
-Footer - here is the Social media-links: Facebook, Instagram, Twitter and Youtube.
+**Footer** - here is the Social media-links: Facebook, Instagram, Twitter and Youtube.
  <img src="assets/images/social media.pp1.png" alt="social media">
  Here i have choose to have the same theme as in the navbar. first I had written the text for each link (facebook, twitter, etc) but then I think the icons where better.
 <hr>
 
-Future Features:
+###Future Features:
 1. add more recipies on website, even categoris for different proteins and ingredients.
 2. people who signed up will get weekly updates with new recipies and can also send in pictures and their own recipes that can be added to the website
 3. open up a gallery with pictures of the food.
 4. add videos and video-tutorials how to cook.
 
 <hr>
-Am I responsive?
+##Am I responsive?
 
 <img src="assets/images/responsivepp1.png" alt="responsive">
 
 <hr>
 
 <hr>
-Here is my wireframe for the project:
+##Here is my wireframe for the project:
 
 
 
@@ -58,7 +79,7 @@ Here is my wireframe for the project:
 
 <hr
 >
-Links that I have used:
+##Links that I have used:
 https://kit.fontawesome.com/f9f2ef5930.js(fontawesome)
 https://favicon.io/emoji-favicons/avocado
 
@@ -76,7 +97,7 @@ https://favicon.io/emoji-favicons/avocado
 
 <hr>
 
-Testing:
+##Testing:
 
 trying in W3-validator ( HTML ):
 | page | error | solution | Fixed and Solved |
@@ -89,6 +110,7 @@ trying in W3-validator ( HTML ):
 | signup.html | Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed. in line 34 | changed Section-element to Div-element instead | X |
 | signup.html | Saw end of file without the previous tag ending with >. Ignoring tag. | Added > | X |
 | signup.html | The value of the for attribute of the label element must be the ID of a non-hidden form control. in line 44. | changed it from "email-address" to "email_address" | X |
-
-trying in W3-validator ( CSS ):
+<hr>
+testing in W3-validator ( CSS ):
 <img src="assets/images/w3cvalidatorpp1.png" alt="wc3validator">
+<hr>
