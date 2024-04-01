@@ -167,11 +167,13 @@ li {
         border-radius: 10%;
         display: flex;
         justify-content: center;
+    
     }
     .foodplate {
         height: 200px;
         width: 250;
-         
+        justify-content: right;
+        padding-left: 50%;
     }
     
 
