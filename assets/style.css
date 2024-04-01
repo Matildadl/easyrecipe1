@@ -32,7 +32,6 @@ body {
     margin-right: 10px;
     text-decoration: none; 
     padding: 5px 10px;
-    background-color: none; 
     color: #1a0707; 
     border-radius: 5px; 
     display: flex;
@@ -41,8 +40,7 @@ body {
     display: inline-block; 
     margin-right: 10px;
     text-decoration: none; 
-    padding: 5px 10px;
-    background-color: none; 
+    padding: 5px 10px; 
     color: #0a0202; 
     border-radius: 10px; 
 }
@@ -105,8 +103,7 @@ li {
 .container {
     margin-right: 10px;
     text-decoration: none; 
-    padding: 5px 10px;
-    background-color: none; 
+    padding: 5px 10px; 
     color: #1a0707; 
     border-radius: 5px; 
    }
@@ -142,12 +139,12 @@ li {
         border-radius: 50%;
     }.happyfamily {
         height: 200px;
-        width: 250;
+        width: 250px;
         border-radius: 10%;
     }
     .foodplate {
         height: 200px;
-        width: 250;
+        width: 250px;
         justify-content: right;
         padding-left: 60%;
     }
@@ -170,7 +167,7 @@ li {
     }
     .foodplate {
         height: 200px;
-        width: 250;
+        width: 250px;
         justify-content: right;
         padding-left: 50%;
     }
@@ -191,7 +188,7 @@ li {
     }
     .foodplate {
         height: 200px;
-        width: 250;
+        width: 250px;
          
     }
 }  

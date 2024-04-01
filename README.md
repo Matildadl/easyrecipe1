@@ -78,7 +78,7 @@ https://favicon.io/emoji-favicons/avocado
 
 Testing:
 
-trying in W3-validator:
+trying in W3-validator ( HTML ):
 | page | error | solution | Fixed and Solved |
 |--|--|--|--|
 | index.html | Error: Element ul not allowed as child of element h4 in this context. (Suppressing further errors from this subtree.) |Deleted < h4 > - element | X |
@@ -89,3 +89,6 @@ trying in W3-validator:
 | signup.html | Section lacks heading. Consider using h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed. in line 34 | changed Section-element to Div-element instead | X |
 | signup.html | Saw end of file without the previous tag ending with >. Ignoring tag. | Added > | X |
 | signup.html | The value of the for attribute of the label element must be the ID of a non-hidden form control. in line 44. | changed it from "email-address" to "email_address" | X |
+
+trying in W3-validator ( CSS ):
+<img src="assets/images/w3cvalidatorpp1.png" alt="wc3validator">
