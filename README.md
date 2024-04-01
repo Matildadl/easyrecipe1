@@ -46,7 +46,7 @@ Here is my wireframe for the project:
 
 <hr
 >
-links that I have used:
+Links that I have used:
 [https://kit.fontawesomfont-style: italic;e.com/f9f2ef5930.js ](fontawesome)
 
 <hr>
