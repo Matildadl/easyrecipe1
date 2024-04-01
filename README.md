@@ -75,3 +75,9 @@ https://favicon.io/emoji-favicons/avocado
 |Social media | Trying to click on Facebook-icon|Facebook's startpage is showing|
 
 <hr>
+
+Testing:
+
+trying in W3-validator:
+|page|error|solution|
+|index.html|Error: Element ul not allowed as child of element h4 in this context. (Suppressing further errors from this subtree.)|Deleted <h4>-element|
