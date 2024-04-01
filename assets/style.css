@@ -149,8 +149,8 @@ li {
     .foodplate {
         height: 200px;
         width: 250;
-        object-position: right;
-       
+        justify-content: right;
+        padding-left: 60%;
     }
 }
 
