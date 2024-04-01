@@ -80,7 +80,7 @@ Testing:
 
 trying in W3-validator:
 | page | error | solution | Fixed and Solved |
-|--|--|--|
+|--|--|--|--|
 | index.html | Error: Element ul not allowed as child of element h4 in this context. (Suppressing further errors from this subtree.) |Deleted < h4 > - element | X |
 | about.html | No ( li ) element in scope but a ( li ) end tag seen, from line 24 - > 26 | Deleted this | X |
 | about.html | Stray end tag < a > in line 29 | Deleted this | X |
