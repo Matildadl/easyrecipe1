@@ -124,3 +124,15 @@ testing in W3-validator ( CSS ):
 Testing in browser:
 I have been testing in: Mozilla Firefox, Microsoft Edge and Safari. I also Tried it on my mobilephone (iphone, safari)
 <hr>
+
+## Credit:
+I have used Google image for search after photos. 
+*happy family* : https://alba-inc.org/the-family/
+*feta cheese* : https://www.istockphoto.com/se/foto/ripe-white-cheese-feta-cheese-made-from-cows-milk-on-a-wooden-serving-board-dairy-gm1466606703-498572346
+*food plate* : made by https://chat.openai.com
+
+for my coding I have used 'Love running' and Youtube for inspiration, and w3Schools.com If I had any issues. 
+*youtube*: https://youtu.be/Q5m8cCGdiBo?si=qxC771tXKXOgXVI8 , https://youtu.be/K24lUqcT0Ms?si=XEdWrw4J94KM3Ln_
+The Icons are taken from Fontawesome 'https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner'
+
+I have also got help from Slack-community ' https://app.slack.com/client/T0L30B202/C0267LTSCNB'
