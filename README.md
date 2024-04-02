@@ -102,7 +102,7 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
  Here i have choose to have the same theme as in the navbar. first I had written the text for each link (facebook, twitter, etc) but then I think the icons where better.
 <hr>
 
-<a id="future-features></a>
+<a id="future-features"></a>
 
 ### Future Features:
 1. add more recipies on website, even categoris for different proteins and ingredients.
@@ -111,7 +111,9 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
 4. add videos and video-tutorials how to cook.
 
 <hr>
+
 <a id="am-i-responsive"></a>
+
 ## Am I responsive?
 
 <img src="assets/images/responsivepp12.png" alt="responsive">
