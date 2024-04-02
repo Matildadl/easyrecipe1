@@ -40,6 +40,7 @@ Join our community! Users can sign up for a personalized account, unlocking addi
     * [Testing in WC3-validator ( HTML )](#wc3)
     * [Testing in WC3-validator ( CSS )](#wc31)
     * [Testing in browser](#browser)
+* [Testing with Lighthouse](#lighthouse)
 * [Language and Tools](#tools)
 * [Credit](#credit)    
 
@@ -196,6 +197,15 @@ I have been testing in: Mozilla Firefox, Microsoft Edge and Safari. I also Tried
 
 <hr>
 
+<a id="lighthouse">
+
+### Testing with Lighthouse:
+
+Here is my results with Lighthouse-tool:
+
+<img src="assets/images/lighthouse.png" alt="lighthouse">
+
+<hr>
 <a id="tools">
 
 ## Language and Tools:
