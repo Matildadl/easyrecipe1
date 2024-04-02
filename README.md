@@ -9,9 +9,11 @@ Whether you're a seasoned home cook or just starting out on your culinary journe
 ### Features:
 HTML and CSS Setup: The project includes a well-structured HTML layout with accompanying CSS styling, ensuring a visually appealing and intuitive user experience.
 
-### Social Network Integration: Stay connected! We've added links to popular social networks, allowing users to share their favorite recipes with friends and family.
+### Social Network Integration:
+ Stay connected! We've added links to popular social networks, allowing users to share their favorite recipes with friends and family.
 
-### Sign Up Page: Join our community! Users can sign up for a personalized account, unlocking additional features such as saving favorite recipes and receiving updates on new content.
+### Sign Up Page: 
+Join our community! Users can sign up for a personalized account, unlocking additional features such as saving favorite recipes and receiving updates on new content.
 
 <hr>
 

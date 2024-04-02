@@ -5,6 +5,7 @@ body {
 }
  .logo {
     text-align: center;
+    font-size: 60px;
  }
 
   
@@ -25,9 +26,15 @@ body {
   .foodplate p{
     font-size: 20px;
     font-style: italic;
-    color:midnightblue;
+    color:rgb(2, 2, 8);
   }
 
+.hr {
+    border: none;
+    border-top: 2px solid black; 
+    width: 50%; 
+    margin: 20px auto; 
+} 
  .container1 {
     margin-right: 10px;
     text-decoration: none; 
@@ -85,6 +92,18 @@ li {
     font-style: italic;
 }
 
+.text-frame {
+    border: 2px solid black; 
+    padding: 20px; 
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+.fetacheese {
+    width:auto;
+    height: auto;
+    
+}
 /*place for list and to do*/
 
 .container {
@@ -96,8 +115,11 @@ li {
 }
 
 .sidebar {
-    flex: 1; 
+    flex: 2; 
     text-align: right; 
+    border: 2px solid black; 
+    padding: 20px; 
+    
 }
 
 .container {
@@ -111,6 +133,12 @@ li {
    .feta-cheese {
     width: 50px;
     height: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.about {
+    text-align: center;
 }
 /* style for sign up*/
 #signup{
@@ -120,10 +148,17 @@ li {
     padding: 10px;
     border-radius: 12px;
     text-align: center;
-    
+       
 }
 
+
+.containersignup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
 .container a {
+    
     display: flex;
     justify-content: center;
     align-items: center; 
@@ -137,7 +172,10 @@ li {
         height: 140px;
         width: 180px;
         border-radius: 50%;
-    }.happyfamily {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .happyfamily {
         height: 200px;
         width: 250px;
         border-radius: 10%;
@@ -156,6 +194,8 @@ li {
         height: 240px;
         width: 480px;
         border-radius: 50%;
+        margin-top: 20px;
+        margin-bottom: 10px;
     }
     .happyfamily {
         height: 300px;
@@ -180,6 +220,8 @@ li {
         height: 340px;
         width: 580px;
         border-radius: 50%;
+        margin-top: 20px;
+        margin-bottom: 10px;
     }
     .happyfamily {
         height: 600px;
