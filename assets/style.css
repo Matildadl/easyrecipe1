@@ -3,12 +3,13 @@ body {
     
     
 }
+/* Title */
  .logo {
     text-align: center;
     font-size: 60px;
  }
 
-  
+  /* Picture at the top*/
  .foodplate {
     padding-left: 30%;
     height: 200px;
@@ -22,20 +23,21 @@ body {
     height: auto; 
     margin-left: 2px; 
  }
-    
+  /* text to foodplate-img*/  
   .foodplate p {
     font-size: 20px;
     font-style: italic;
     color:rgb(2, 2, 8);
     margin-right: 5px;
   }
-
+/* Border around navbar*/
 .hr {
     border: none;
     border-top: 2px solid black; 
     width: 50%; 
     margin: 20px auto; 
 } 
+/* style for nav-bar*/
  .container1 {
     margin-right: 10px;
     text-decoration: none; 
@@ -79,10 +81,11 @@ body {
     background-color: #eee9e9; 
      
 }
+/* text-align for 'how to...'-text*/
 #recept1 {
     text-align: left;
 }
-
+/* color for < p > and < li >-elements */
 p {
     color: darkslategrey;
     
@@ -92,6 +95,8 @@ li {
     color: darkslategrey;
     font-style: italic;
 }
+
+/* style for border around all text in index*/
 
 .text-frame {
     border: 2px solid black; 
@@ -152,7 +157,7 @@ li {
        
 }
 
-
+/* text-position for signup-form*/
 .containersignup {
     display: flex;
     justify-content: center;
