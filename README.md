@@ -63,32 +63,38 @@ Maybe even video-tutorials and gallery with picture of my food and the readers f
 
 #### First Time Visitor Goals
 
-As a First Time Visitor: *I want to easily understand the main purpose of the site and learn more about easy recipies.*
-As a First Time Visitor: *I want to be able to easily navigate throughout the site to find content.*
-As a First Time Visitor: *I want to see the food and what you can do with it. I also want to locate their social media links to see their followings on social media and if they are posting any news there.*
+* As a First Time Visitor: *I want to easily understand the main purpose of the site and learn more about easy recipies.*
+* As a First Time Visitor: *I want to be able to easily navigate throughout the site to find content.*
+* As a First Time Visitor: *I want to see the food and what you can do with it. I also want to locate their social media links to see their followings on social media and if they are posting any news there.*
 
 <a id="returning-visitor-goals"></a>
 
 #### Returning Visitor Goals
-As a Returning Visitor: *I want to see more recipies and learn more.*
-As a Returning Visitor: *I want to sign up so I can get all the news.*
-As a Returning Visitor: *I want to find community links.*
+* As a Returning Visitor: *I want to see more recipies and learn more.*
+* As a Returning Visitor: *I want to sign up so I can get all the news.*
+* As a Returning Visitor: *I want to find community links.*
 
 <a id="frequent-user-goals"></a>
 
 #### Frequent User Goals
-As a Frequent User: *I want to check if there is any new recipies (categoris in the making for future)*
-As a Frequent User: *I want to see more picture, maybe readers own pictures (gallery may be added)*
-As a Frequent User: *I want to come back for new posted recipies every week*
+* As a Frequent User: *I want to check if there is any new recipies (categoris in the making for future)*
+* As a Frequent User: *I want to see more picture, maybe readers own pictures (gallery may be added)
+* As a Frequent User: *I want to come back for new posted recipies every week*
+
+#### Friends and family that I asked for their opionion:
+
+* My Friend: *I really loved the easy navigation on the website, for me that is the most important thing*
+* My Mother: *I think you need measurements for Tzatziki* ( I added that)
 
 <hr>
 
 <a id="navbar"></a>
 
 ## Navbar:
-Recipe, About and Sign up.
+### Recipe, About and Sign up.
 
 <img width="576" alt="navbar" src="assets/images/navbar.pp1.png">
+
 I have choosen to have a white/grey hover on my navbar-links, just to have a contrast.
 
 **Recipe**- *First page with one simple recipe for a healthy meal.*
@@ -101,16 +107,17 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
 
 **Footer** - here is the Social media-links: Facebook, Instagram, Twitter and Youtube.
  <img src="assets/images/social media.pp1.png" alt="social media">
+ 
  Here i have choose to have the same theme as in the navbar. first I had written the text for each link (facebook, twitter, etc) but then I think the icons where better.
 <hr>
 
 <a id="future-features"></a>
 
 ### Future Features:
-1. add more recipies on website, even categoris for different proteins and ingredients.
-2. people who signed up will get weekly updates with new recipies and can also send in pictures and their own recipes that can be added to the website
-3. open up a gallery with pictures of the food.
-4. add videos and video-tutorials how to cook.
+1. Add more recipies on website, even categoris for different proteins and ingredients.
+2. People who signed up will get weekly updates with new recipies and can also send in pictures and their own recipes that can be added to the website
+3. Open up a gallery with pictures of the food.
+4. Add videos and video-tutorials how to cook.
 
 <hr>
 
@@ -128,8 +135,6 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
 
 ##  Wireframe for the project:
 
-
-
 <img width="576" alt="pp1 sida1" src="https://github.com/Matildadl/recipe1/assets/163171713/0c691e52-54ef-4645-a909-c8715654828b">
 
 <img width="576" alt="pp1sida2" src="https://github.com/Matildadl/recipe1/assets/163171713/c10bf0aa-9366-4ea8-b7a7-da7c995dfcb2">
@@ -141,8 +146,8 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
 <a id="Links"></a>
 
 ## Links that I have used:
-https://kit.fontawesome.com/f9f2ef5930.js(fontawesome)
-https://favicon.io/emoji-favicons/avocado
+* https://kit.fontawesome.com/f9f2ef5930.js(fontawesome)
+* https://favicon.io/emoji-favicons/avocado
 
 
 <hr>
@@ -230,16 +235,16 @@ Here is my results with Lighthouse-tool:
 
 ## Credit:
 I have used Google image for search after photos. 
-*happy family* : https://alba-inc.org/the-family/
-*feta cheese* : https://www.istockphoto.com/se/foto/ripe-white-cheese-feta-cheese-made-from-cows-milk-on-a-wooden-serving-board-dairy-gm1466606703-498572346
-*food plate* : made by https://chat.openai.com
+* *happy family* : https://alba-inc.org/the-family/
+* *feta cheese* : https://www.istockphoto.com/se/foto/ripe-white-cheese-feta-cheese-made-from-cows-milk-on-a-wooden-serving-board-dairy-gm1466606703-498572346
+* *food plate* : made by https://chat.openai.com
 
 For my coding I have used 'Love running' and Youtube for inspiration, and w3Schools.com If I had any issues. 
-*youtube*: https://youtu.be/Q5m8cCGdiBo?si=qxC771tXKXOgXVI8 ,
+* *youtube*: https://youtu.be/Q5m8cCGdiBo?si=qxC771tXKXOgXVI8 ,
  https://youtu.be/K24lUqcT0Ms?si=XEdWrw4J94KM3Ln_
-The Icons are taken from Fontawesome 'https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner'
+* The Icons are taken from Fontawesome 'https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner'
 
-I have also got help from Slack-community ' https://app.slack.com/client/T0L30B202/C0267LTSCNB'
+* I have also got help from Slack-community ' https://app.slack.com/client/T0L30B202/C0267LTSCNB'
 
 ## Thank You!
 I would like to say a big thank you to these people:
