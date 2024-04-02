@@ -121,3 +121,6 @@ trying in W3-validator ( HTML ):
 testing in W3-validator ( CSS ):
 <img src="assets/images/w3cvalidatorpp1.png" alt="wc3validator">
 <hr>
+Testing in browser:
+I have been testing in: Mozilla Firefox, Microsoft Edge and Safari. I also Tried it on my mobilephone (iphone, safari)
+<hr>
