@@ -1,5 +1,8 @@
 # Welcome to Easy Recipes!
 
+<a id="introduction"></a>
+
+# Introduction
 Are you looking for a quick, delicious meal that's sure to please the whole family? Look no further! Our site is dedicated to providing you with easy-to-follow recipes that are both tasty and satisfying. Today, we're thrilled to share with you one of our all-time favorites: homemade meatballs.
 
 Our easy meatball recipe is perfect for busy weeknights when you want to whip up something hearty and comforting without spending hours in the kitchen. With simple ingredients and straightforward instructions, you'll have juicy, flavorful meatballs ready to serve in no time.
@@ -17,9 +20,33 @@ Join our community! Users can sign up for a personalized account, unlocking addi
 
 <hr>
 
+## Content
+** Table of Content:**
+* [Introduction](#introduction)
+* [Vision] (#vision)
+    * [My vision] (#my-vision)
+* [User stories] (#user-stories)
+    * [First Time Visitor Goals] (#first-time)
+    * [Returning Visitor Goals] (#returning-visitor)
+    * [Frequent User Goals] (#frequent-user)
+
+
+<a id="vision></a>
+
 ## Vision:
 
+<a id="my-vision"></a>
+
+### My vision about the Project and 'Easyrecipes'
+I wanted to make a simple and easy website, with easy recipes that everyone can do with simple knowledge. my vision was to keep it easy to navigate and easy to find what you want on the page.
+In the future you can add categoris on the website to make it to a bigger portal for more people.
+Maybe even video-tutorials and gallery with picture of my food and the readers food.
+
+<a="user-stories"></a>
+
 ### User stories:
+
+<a="first-time"></a>
 
 #### First Time Visitor Goals
 
@@ -27,10 +54,14 @@ As a First Time Visitor: *I want to easily understand the main purpose of the si
 As a First Time Visitor: *I want to be able to easily navigate throughout the site to find content.*
 As a First Time Visitor: *I want to see the food and what you can do with it. I also want to locate their social media links to see their followings on social media and if they are posting any news there.*
 
+<a="returning-visitor"></a>
+
 #### Returning Visitor Goals
 As a Returning Visitor: *I want to see more recipies and learn more.*
 As a Returning Visitor: *I want to sign up so I can get all the news.*
 As a Returning Visitor: *I want to find community links.*
+
+<a id="frequent-user"></a>
 
 #### Frequent User Goals
 As a Frequent User: *I want to check if there is any new recipies (categoris in the making for future)*
