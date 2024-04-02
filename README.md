@@ -21,14 +21,14 @@ Join our community! Users can sign up for a personalized account, unlocking addi
 <hr>
 
 ## Content
-** Table of Content:**
+**Table of Content:**
 * [Introduction](#introduction)
-* [Vision] (#vision)
-    * [My vision] (#my-vision)
-* [User stories] (#user-stories)
-    * [First Time Visitor Goals] (#first-time)
-    * [Returning Visitor Goals] (#returning-visitor)
-    * [Frequent User Goals] (#frequent-user)
+* [Vision](#vision)
+    * [My vision](#my-vision)
+* [User stories](#user-stories)
+    * [First Time Visitor Goals](#first-time)
+    * [Returning Visitor Goals](#returning-visitor)
+    * [Frequent User Goals](#frequent-user)
 
 
 <a id="vision></a>
