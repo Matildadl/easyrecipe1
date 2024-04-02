@@ -183,9 +183,23 @@ li {
     }
     .foodplate {
         height: 5%;
-        width: 5%px;
+        width: 5%;
         justify-content: right;
-        padding-left: 55%;
+        padding-left: 80%;
+        border-radius: 20%;
+    }
+    .foodplate p {
+        text-align: center;
+    }
+
+    .text-frame {
+        border: 2px solid black; 
+        padding: 20px; 
+        margin-top: 20px;
+        margin-bottom: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
+        transform: 2s;
     }
 }
 
