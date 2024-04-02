@@ -20,13 +20,14 @@ body {
  .foodplate img {
     width: 200px; 
     height: auto; 
-    margin-left: 5px; 
+    margin-left: 2px; 
  }
     
   .foodplate p {
     font-size: 20px;
     font-style: italic;
     color:rgb(2, 2, 8);
+    margin-right: 5px;
   }
 
 .hr {
