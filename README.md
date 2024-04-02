@@ -40,6 +40,7 @@ Join our community! Users can sign up for a personalized account, unlocking addi
     * [Testing in WC3-validator ( HTML )](#wc3)
     * [Testing in WC3-validator ( CSS )](#wc31)
     * [Testing in browser](#browser)
+* [Language and Tools](#tools)
 * [Credit](#credit)    
 
 <a id="vision"></a>
@@ -123,6 +124,7 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
 <hr>
 
 <a id="wireframe"></a>
+
 ##  Wireframe for the project:
 
 
@@ -194,6 +196,26 @@ I have been testing in: Mozilla Firefox, Microsoft Edge and Safari. I also Tried
 
 <hr>
 
+<a id="tools">
+
+## Language and Tools:
+
+### Language:
+
+* HTML
+* CSS
+
+
+### Tools:
+
+* Balsamiq
+* Codeanywhere
+* Github
+* HTML Validator
+* CSS Validator
+* Youtube
+* https://ui.dev/amiresponsive
+
 <a id="credit"></a>
 
 ## Credit:
@@ -202,9 +224,15 @@ I have used Google image for search after photos.
 *feta cheese* : https://www.istockphoto.com/se/foto/ripe-white-cheese-feta-cheese-made-from-cows-milk-on-a-wooden-serving-board-dairy-gm1466606703-498572346
 *food plate* : made by https://chat.openai.com
 
-for my coding I have used 'Love running' and Youtube for inspiration, and w3Schools.com If I had any issues. 
-*youtube*: https://youtu.be/Q5m8cCGdiBo?si=qxC771tXKXOgXVI8 , https://youtu.be/K24lUqcT0Ms?si=XEdWrw4J94KM3Ln_
+For my coding I have used 'Love running' and Youtube for inspiration, and w3Schools.com If I had any issues. 
+*youtube*: https://youtu.be/Q5m8cCGdiBo?si=qxC771tXKXOgXVI8 ,
+ https://youtu.be/K24lUqcT0Ms?si=XEdWrw4J94KM3Ln_
 The Icons are taken from Fontawesome 'https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner'
 
 I have also got help from Slack-community ' https://app.slack.com/client/T0L30B202/C0267LTSCNB'
 
+## Thank You!
+I would like to say a big thank you to these people:
+* My understanding Partner.
+* My class and Schoolmates that I have meet in Slack Community.
+* My mentor.
