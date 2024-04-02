@@ -29,9 +29,20 @@ Join our community! Users can sign up for a personalized account, unlocking addi
     * [First Time Visitor Goals](#first-time-visitor-goals)
     * [Returning Visitor Goals](#returning-visitor-goals)
     * [Frequent User Goals](#frequent-user-goals)
+* [Navbar](#navbar)
+* [Footer](#footer)
+* [Future features](#future-features)
+* [Am I responsive?](#am-i-responsive)
+* [Wireframe for the project](#wireframe)
+* [Links that I have used](#links)
+* [Manual Testing/Function](#manual-testing)
+* [Testing](#testing)
+    *[Testing in WC3-validator ( HTML )](#wc3)
+    *[Testing in WC3-validator ( CSS )](#wc31)
+    *[Testing in browser](#browser)
+* [Credit](#credit)    
 
-
-<a id="vision></a>
+<a id="vision"></a>
 
 ## Vision:
 
@@ -70,6 +81,8 @@ As a Frequent User: *I want to come back for new posted recipies every week*
 
 <hr>
 
+<a id="navbar"></a>
+
 ## Navbar:
 Recipe, About and Sign up.
 
@@ -82,10 +95,14 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
 
 <hr>
 
+<a id="footer"></a>
+
 **Footer** - here is the Social media-links: Facebook, Instagram, Twitter and Youtube.
  <img src="assets/images/social media.pp1.png" alt="social media">
  Here i have choose to have the same theme as in the navbar. first I had written the text for each link (facebook, twitter, etc) but then I think the icons where better.
 <hr>
+
+<a id="future-features></a>
 
 ### Future Features:
 1. add more recipies on website, even categoris for different proteins and ingredients.
@@ -94,16 +111,17 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
 4. add videos and video-tutorials how to cook.
 
 <hr>
-
+<a id="am-i-responsive"></a>
 ## Am I responsive?
 
 <img src="assets/images/responsivepp12.png" alt="responsive">
 
-<hr>
+
 
 <hr>
 
-## Here is my wireframe for the project:
+<a id="wireframe"></a>
+##  Wireframe for the project:
 
 
 
@@ -115,12 +133,16 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
 
 <hr
 
+<a id="Links"></a>
+
 ## Links that I have used:
 https://kit.fontawesome.com/f9f2ef5930.js(fontawesome)
 https://favicon.io/emoji-favicons/avocado
 
 
 <hr>
+
+<a id="manual-testing"></a>
 
 ## Manual Testing/Function
 
@@ -135,9 +157,14 @@ https://favicon.io/emoji-favicons/avocado
 
 <hr>
 
+<a id="testing"></a>
+
 ## Testing:
 
-trying in W3-validator ( HTML ):
+<a id="wc3"></a>
+
+### Testing in WC3-validator ( HTML ):
+
 | page | error | solution | Fixed and Solved |
 |--|--|--|--|
 | index.html | Error: Element ul not allowed as child of element h4 in this context. (Suppressing further errors from this subtree.) |Deleted < h4 > - element | X |
@@ -149,12 +176,23 @@ trying in W3-validator ( HTML ):
 | signup.html | Saw end of file without the previous tag ending with >. Ignoring tag. | Added > | X |
 | signup.html | The value of the for attribute of the label element must be the ID of a non-hidden form control. in line 44. | changed it from "email-address" to "email_address" | X |
 <hr>
-testing in W3-validator ( CSS ):
+
+<a id="wc31"></a>
+
+### Testing in WC3-validator ( CSS ):
+
 <img src="assets/images/w3cvalidatorpp1.png" alt="wc3validator">
+
 <hr>
-Testing in browser:
+<a id="browser"></a>
+
+### Testing in browser: 
+
 I have been testing in: Mozilla Firefox, Microsoft Edge and Safari. I also Tried it on my mobilephone (iphone, safari)
+
 <hr>
+
+<a id="credit"></a>
 
 ## Credit:
 I have used Google image for search after photos. 
@@ -168,4 +206,3 @@ The Icons are taken from Fontawesome 'https://fontawesome.com/?utm_source=v4_hom
 
 I have also got help from Slack-community ' https://app.slack.com/client/T0L30B202/C0267LTSCNB'
 
-[def]: #first-time
