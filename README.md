@@ -66,7 +66,7 @@ I have choosen to have a white/grey hover on my navbar-links, just to have a con
 
 ## Am I responsive?
 
-<img src="assets/images/responsivepp1.png" alt="responsive">
+<img src="assets/images/responsivepp12.png" alt="responsive">
 
 <hr>
 
