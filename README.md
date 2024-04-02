@@ -37,9 +37,9 @@ Join our community! Users can sign up for a personalized account, unlocking addi
 * [Links that I have used](#links)
 * [Manual Testing/Function](#manual-testing)
 * [Testing](#testing)
-    *[Testing in WC3-validator ( HTML )](#wc3)
-    *[Testing in WC3-validator ( CSS )](#wc31)
-    *[Testing in browser](#browser)
+    * [Testing in WC3-validator ( HTML )](#wc3)
+    * [Testing in WC3-validator ( CSS )](#wc31)
+    * [Testing in browser](#browser)
 * [Credit](#credit)    
 
 <a id="vision"></a>
