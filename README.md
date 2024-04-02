@@ -26,9 +26,9 @@ Join our community! Users can sign up for a personalized account, unlocking addi
 * [Vision](#vision)
     * [My vision](#my-vision)
 * [User stories](#user-stories)
-    * [First Time Visitor Goals](#first-time)
-    * [Returning Visitor Goals](#returning-visitor)
-    * [Frequent User Goals](#frequent-user)
+    * [First Time Visitor Goals](#first-time-visitor-goals)
+    * [Returning Visitor Goals](#returning-visitor-goals)
+    * [Frequent User Goals](#frequent-user-goals)
 
 
 <a id="vision></a>
@@ -42,11 +42,11 @@ I wanted to make a simple and easy website, with easy recipes that everyone can 
 In the future you can add categoris on the website to make it to a bigger portal for more people.
 Maybe even video-tutorials and gallery with picture of my food and the readers food.
 
-<a="user-stories"></a>
+<a id="user-stories"></a>
 
 ### User stories:
 
-<a="first-time"></a>
+<a id="first-time-visitor-goals"></a>
 
 #### First Time Visitor Goals
 
@@ -54,14 +54,14 @@ As a First Time Visitor: *I want to easily understand the main purpose of the si
 As a First Time Visitor: *I want to be able to easily navigate throughout the site to find content.*
 As a First Time Visitor: *I want to see the food and what you can do with it. I also want to locate their social media links to see their followings on social media and if they are posting any news there.*
 
-<a="returning-visitor"></a>
+<a id="returning-visitor-goals"></a>
 
 #### Returning Visitor Goals
 As a Returning Visitor: *I want to see more recipies and learn more.*
 As a Returning Visitor: *I want to sign up so I can get all the news.*
 As a Returning Visitor: *I want to find community links.*
 
-<a id="frequent-user"></a>
+<a id="frequent-user-goals"></a>
 
 #### Frequent User Goals
 As a Frequent User: *I want to check if there is any new recipies (categoris in the making for future)*
@@ -167,3 +167,5 @@ for my coding I have used 'Love running' and Youtube for inspiration, and w3Scho
 The Icons are taken from Fontawesome 'https://fontawesome.com/?utm_source=v4_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=banner'
 
 I have also got help from Slack-community ' https://app.slack.com/client/T0L30B202/C0267LTSCNB'
+
+[def]: #first-time
