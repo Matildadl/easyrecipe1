@@ -207,6 +207,13 @@ li {
     }
 }
 
+#thank-you-message {
+    display: none;
+}
+
+#signup-form:valid ~ #thank-you-message {
+    display: block;
+}
 /* media query for ipad and tablets */
 @media screen and (min-width: 601px) and (max-width: 900px){
     .fetacheese {
