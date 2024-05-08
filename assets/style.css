@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: #ffe4c4;
     
     
 }
@@ -55,7 +55,7 @@ body {
     border-radius: 10px; 
 }
 .container1 a:hover {
-    background-color: #f0ecec; 
+    background-color: #68DCEE; 
     color: #0b0c0b; 
 }
 
@@ -78,7 +78,7 @@ body {
 }
 
 .container a:hover {
-    background-color: #eee9e9; 
+    background-color: #68DCEE; 
      
 }
 /* text-align for 'how to...'-text*/
@@ -87,12 +87,12 @@ body {
 }
 /* color for < p > and < li >-elements */
 p {
-    color: darkslategrey;
+    color: black;
     
 }
 
 li {
-    color: darkslategrey;
+    color: black;
     font-style: italic;
 }
 
@@ -150,7 +150,7 @@ li {
 #signup{
     max-width: 200px;
     margin: 40px;
-    background-color: #9c3030;
+    background-color: #FFB1D7;
     padding: 10px;
     border-radius: 12px;
     text-align: center;
