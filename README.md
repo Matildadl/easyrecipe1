@@ -231,6 +231,22 @@ Here is my results with Lighthouse-tool:
 * Youtube
 * https://ui.dev/amiresponsive
 
+<hr>
+
+## Deployment:
+
+### Deployment To Github:
+* Once code has been completed, it is pushed to Github for deployment using the pages feature. 
+
+### Steps needed to deploy
+
+* Navigate to the repository on github and click settings.
+* Then select pages on the side navigation.
+* Select the none dropdown, and then click main.
+* Click on the save button.
+* If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+
+
 <a id="credit"></a>
 
 ## Credit:
