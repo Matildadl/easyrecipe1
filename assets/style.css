@@ -1,5 +1,5 @@
 body {
-    background-color: #ffe4c4;
+    background-color: #DFE0DF;
     
     
 }
@@ -26,7 +26,6 @@ body {
   /* text to foodplate-img*/  
   .foodplate p {
     font-size: 20px;
-    font-style: italic;
     color:rgb(2, 2, 8);
     margin-right: 5px;
   }
@@ -55,8 +54,8 @@ body {
     border-radius: 10px; 
 }
 .container1 a:hover {
-    background-color: #68DCEE; 
-    color: #0b0c0b; 
+    background-color: #00917B; 
+    color: white; 
 }
 
 .container1 {
@@ -73,12 +72,13 @@ body {
     margin-right: 10px;
     text-decoration: none; 
     padding: 5px 10px;
-    color: #1a0707; 
+    color: #46341A; 
     border-radius: 5px; 
 }
 
 .container a:hover {
-    background-color: #68DCEE; 
+    background-color: #00917B; 
+    
      
 }
 /* text-align for 'how to...'-text*/
@@ -93,7 +93,7 @@ p {
 
 li {
     color: black;
-    font-style: italic;
+    
 }
 
 /* style for border around all text in index*/
@@ -149,8 +149,7 @@ li {
 /* style for sign up*/
 #signup{
     max-width: 200px;
-    margin: 40px;
-    background-color: #FFB1D7;
+    margin: 40px;    
     padding: 10px;
     border-radius: 12px;
     text-align: center;
