@@ -42,6 +42,7 @@ Join our community! Users can sign up for a personalized account, unlocking addi
     * [Testing in browser](#browser)
 * [Testing with Lighthouse](#lighthouse)
 * [Language and Tools](#tools)
+* [Deployment](#deployment)
 * [Credit](#credit)    
 
 <a id="vision"></a>
@@ -233,6 +234,8 @@ Here is my results with Lighthouse-tool:
 
 <hr>
 
+<a id="deployment">
+
 ## Deployment:
 
 ### Deployment To Github:
@@ -246,6 +249,7 @@ Here is my results with Lighthouse-tool:
 * Click on the save button.
 * If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
 
+<hr>
 
 <a id="credit"></a>
 
